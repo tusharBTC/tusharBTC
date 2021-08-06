@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tusharBTC
-- 👀 I’m interested in Java, machine lerning, python, db rdbms, doc, graph db ...
-- 🌱 I’m currently learning teaching my ac to maintain the optimum tem by feeding it temperature from thermometer near desk
+- 👀 I’m interested in Java, machine learning, python, db rdbms, doc, graph db ...
+- 🌱 I’m currently learning, to optimize my ac to maintain optimum temp for me, by feeding it temperature from thermometer near desk
 - 💞️ I’m looking to collaborate on BTC projects
 - 📫 How to reach me Tushar Kapila  
 
